@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>TestNuget</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Albert W. Degenaar</Authors>
+        <Company>CHAOS</Company>
+        <PackageDescription>Package for testing Nuget</PackageDescription>
+        <RepositoryUrl>https://github.com/adegenaar/NugetTesting</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
